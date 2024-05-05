@@ -5,7 +5,7 @@
 import datetime
 
 messages_to_send = [
-    ('Текст1', datetime.timedelta(minutes=0, seconds=10)),
+    ('Текст1', datetime.timedelta(minutes=6)),
     ('Текст2', datetime.timedelta(minutes=49)),
     ('Текст3', datetime.timedelta(days=1, hours=2))
 ]
